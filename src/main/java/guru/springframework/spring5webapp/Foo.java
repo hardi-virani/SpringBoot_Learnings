@@ -6,6 +6,6 @@ public class Foo
 {
     public static  void main(String[] args)
     {
-        System.out.println("Hardi Virani - Day One");
+        System.out.println("Hardi - Day One");
     }
 }
