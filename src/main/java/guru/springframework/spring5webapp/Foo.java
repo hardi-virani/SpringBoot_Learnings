@@ -10,5 +10,6 @@ public class Foo
         System.out.println("Hardi - Day One");
         System.out.println("Completed!");
         System.out.println("Day two completed");
+        System.out.println("Day three Completed");
     }
 }
