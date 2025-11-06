@@ -9,5 +9,6 @@ public class Foo
         //Comments again
         System.out.println("Hardi - Day One");
         System.out.println("Completed!");
+        System.out.println("Day two completed");
     }
 }
